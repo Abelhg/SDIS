@@ -1,2 +1,2 @@
 # SDIS
-Programas utilizados en Sistemas Distribuidos
+Programas utilizados en las prácticas de la asignatura de Sistemas Distribuidos
